@@ -1,4 +1,4 @@
-Fractal-porn-with-xcode
+Fractal-fun-with-xcode
 =======================
 
 Funny fractal tests with Xcode 6
